@@ -1,0 +1,59 @@
+[33mcommit e3927d2b4801449794e20cfdc4b6e2edc67fbc56[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m)[m
+Author: Bayma23 <lhbayma7>
+Date:   Thu Sep 4 09:38:21 2025 -0300
+
+    Adicionando prática 3: função calcularMediaAluno e testes
+
+[33mcommit 077dea672283636c023e6ef1060ce3c4a14bff4d[m
+Author: Bayma23 <lhbayma7>
+Date:   Thu Sep 4 09:00:03 2025 -0300
+
+    Adicionando novos arquivos
+
+[33mcommit 098640426a8d2827be554b3135c1fca7dbc7a3fd[m
+Author: Bayma23 <lhbayma7>
+Date:   Thu Aug 21 10:27:17 2025 -0300
+
+    Atualizando package.json e adicionando package-lock.json na prática 02
+
+[33mcommit febb074efdb6271ac66b72c24c5c85053ed7a41a[m[33m ([m[1;31morigin/feature_5[m[33m, [m[1;32mfeature[m[33m)[m
+Author: Bayma23 <lhbayma7>
+Date:   Thu Aug 21 10:24:05 2025 -0300
+
+    Adicionando códigos da prática 2
+
+[33mcommit a18293eb26b2249ea63348e33678190eb8d089f4[m
+Author: Bayma23 <lhbayma7>
+Date:   Thu Aug 21 09:32:48 2025 -0300
+
+    Adicionando db.json e export do Insomnia
+
+[33mcommit d7bccd954002cff2a56585d6555678ce575d99ab[m
+Author: Bayma23 <lhbayma7>
+Date:   Thu Aug 21 08:57:38 2025 -0300
+
+    Adicionando códigos da prática 1
+
+[33mcommit ca4e383d3902618039add04548da95571ad61568[m
+Author: Bayma23 <lhbayma7>
+Date:   Fri Aug 15 08:53:14 2025 -0300
+
+    adicionando index.js
+
+[33mcommit aa0cb169136df71e05ee255d2cd1bfdbdb3c4049[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Bayma23 <lhbayma7>
+Date:   Thu Aug 14 10:50:23 2025 -0300
+
+    codigo da aula 01
+
+[33mcommit 861b8bb82f590296acceba9fdf61d76cf8890005[m
+Author: Bayma23 <lhbayma7>
+Date:   Thu Aug 14 08:41:35 2025 -0300
+
+    Alterando arquivo README.md
+
+[33mcommit 4dbd5b488122386aab80ae5dbb41a5e5d61c77e1[m
+Author: Bayma23 <161318243+Bayma23@users.noreply.github.com>
+Date:   Thu Aug 14 08:26:21 2025 -0300
+
+    Initial commit
